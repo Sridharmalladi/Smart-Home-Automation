@@ -1,0 +1,38 @@
+{
+  "id": "6cec0d2a-be57-4b67-a7ca-c7d1dcc7bb03",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sorry, I didn\u0027t understand that.",
+            "I\u0027m sorry, but I didn\u0027t catch that.",
+            "Unfortunately, I didn\u0027t get what you meant.",
+            "I couldn\u0027t understand, sorry."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "fff5e533-e4fd-4f29-93f6-3b536ce3f34f",
+    "data": [
+      {
+        "text": "turn on the light",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb9942bd-3ae2-47d4-b637-a9674b06de1a",
+    "data": [
+      {
+        "text": "lights on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

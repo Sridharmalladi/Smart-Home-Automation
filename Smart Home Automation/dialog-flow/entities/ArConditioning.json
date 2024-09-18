@@ -1,0 +1,9 @@
+{
+  "id": "713bbf94-e1c5-4755-afc8-11d247d04284",
+  "name": "ArConditioning",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
