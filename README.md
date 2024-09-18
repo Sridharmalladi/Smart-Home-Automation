@@ -17,7 +17,9 @@ Prerequisites:
 Make sure you have the following dependencies installed:
 
 Python 3.x
+
 OpenCV
+
 Flask (if using a web interface)
 
 
